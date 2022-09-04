@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=userId\ userPin
+comment1.target=User(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=boolean\ getVoted()
+comment4.params=v
+comment4.target=void\ setVoted(boolean)
+comment5.params=
+comment5.target=java.lang.String\ getPin()
+comment6.params=checkPin\ user
+comment6.target=boolean\ correctPin(java.lang.String,\ User[])
+numComments=7

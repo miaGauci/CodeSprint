@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Accounts
+comment1.params=
+comment1.target=User[]\ userData()
+comment2.params=text\ user
+comment2.target=boolean\ uniqueUserId(java.lang.String,\ User[])
+comment3.params=user
+comment3.target=java.lang.String\ pinCode(User[])
+comment4.params=newUser\ user
+comment4.target=User[]\ appendUser(User,\ User[])
+numComments=5

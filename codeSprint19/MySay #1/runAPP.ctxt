@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=runAPP
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ logo()
+comment3.params=
+comment3.target=void\ logSystem()
+comment4.params=pointer
+comment4.target=void\ mainMenu(int)
+comment5.params=userIndex
+comment5.target=void\ userVote(int)
+comment6.params=
+comment6.target=void\ seeResult()
+comment7.params=
+comment7.target=void\ registerAcc()
+comment8.params=
+comment8.target=void\ exit()
+numComments=9
